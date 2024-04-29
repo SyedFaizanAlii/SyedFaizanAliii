@@ -25,7 +25,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://linkedin.com/in/syed-faizan-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-faizan-ali" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/syed-faizan-ali-70b164306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-faizan-ali" height="30" width="40" /></a>
 <a href="https://kaggle.com/syedfaizanalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedfaizanalii" height="30" width="40" /></a>
   </a>
 </div>
